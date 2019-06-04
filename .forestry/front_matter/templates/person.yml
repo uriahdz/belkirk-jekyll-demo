@@ -35,3 +35,10 @@ fields:
   type: text
   hidden: true
   default: person
+- name: test_field
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: test field
