@@ -9,9 +9,9 @@ services:
 - heading: sdsdsd
   description: asasass
   icon: "/uploads/2018/02/17/building.jpg"
-- heading: ''
-  description: ''
-  icon: ''
+- heading: asaaa
+  description: vdcvcvcv
+  icon: "/uploads/2018/02/17/college-building.jpg"
 sub_heading: asasas
 menu:
   navigation:
