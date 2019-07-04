@@ -6,6 +6,9 @@ heading: Contact Belkirk College
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 services:
+- heading: sdsdsd
+  description: asasass
+  icon: "/uploads/2018/02/17/building.jpg"
 - heading: ''
   description: ''
   icon: ''
