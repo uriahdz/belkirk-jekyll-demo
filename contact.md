@@ -13,6 +13,7 @@ services:
   description: vdcvcvcv
   icon: "/uploads/2018/02/17/college-building.jpg"
 sub_heading: asasas
+show_news: true
 menu:
   navigation:
     identifier: _contact
